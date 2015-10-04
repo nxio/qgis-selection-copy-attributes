@@ -1,0 +1,29 @@
+; the next section is mandatory
+[general]
+name:SelectionCopyAttributes
+qgisMinimumVersion:2.0
+qgisMaximumVersion:2.99
+description:Tool for copying attributes from one layer to another
+version:0.0.1
+; end of mandatory metadata
+
+
+; start of optional metadata
+
+changelog:
+    0.0.1   initial version
+
+category=Vector
+
+author=Christian Kaiser
+email=ck@naxio.ch
+
+homepage:http://naxio.ch/qgis/SelectionCopyAttributes
+
+repository:https://github.com/nxio/qgis-selection-copy-attributes
+
+tracker:https://github.com/nxio/qgis-selection-copy-attributes
+
+icon:icon.png
+
+
